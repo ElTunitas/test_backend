@@ -1,3 +1,4 @@
 from django.db import models
+git pull origin master 
 
-# Create your models here.
+XDXDXDD
