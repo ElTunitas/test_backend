@@ -10,3 +10,4 @@ terminal / new terminal / git bash
 git add .
 git commit -m "nomnbre cualquiera"
 git push origin master
+ggg
